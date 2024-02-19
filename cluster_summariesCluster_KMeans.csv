@@ -1,0 +1,6 @@
+, Average Covered Charges , Average Covered Charges , Average Covered Charges , Average Covered Charges , Average Covered Charges , Average Total Payments , Average Total Payments , Average Total Payments , Average Total Payments , Average Total Payments ,Average Medicare Payments,Average Medicare Payments,Average Medicare Payments,Average Medicare Payments,Average Medicare Payments
+,mean,median,std,min,max,mean,median,std,min,max,mean,median,std,min,max
+Cluster_KMeans,,,,,,,,,,,,,,,
+0,22766.573297757364,20096.629999999997,11626.724307607185,2995.61,86124.63,6476.154205620102,6090.71,2119.7561650375337,2728.69,15033.3,5423.930287760065,5065.93,2087.8581208763535,1752.35,12702.9
+1,136803.17513580248,123822.9,65705.70144603115,19877.28,549826.0,36653.072518518515,34258.63,10973.72309920637,16525.63,103802.96,33834.10681481481,31768.0,10562.473509339,9316.11,101717.82
+2,60562.41963520292,56361.15,25753.548848898434,5303.6,202777.19,15257.848107615138,14251.27,4393.780711530146,5739.0,38686.28,13724.748919288646,12793.32,4161.12246559925,4109.25,29336.04
